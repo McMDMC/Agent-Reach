@@ -1,0 +1,4 @@
+feedparser==6.0.14
+yt-dlp==2026.8.19
+google-cloud-bigquery==3.46.1
+google-genai==2.28.0

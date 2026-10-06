@@ -1,0 +1,4 @@
+project_id  = "your-project-id"
+region      = "europe-west3"
+alert_email = "you@example.com"
+# image = "europe-west3-docker.pkg.dev/your-project-id/digest/digest:latest"  # set after step 2
